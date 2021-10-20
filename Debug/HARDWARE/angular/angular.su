@@ -1,0 +1,2 @@
+angular.c:7:6:Angular_init	16	static
+angular.c:14:9:Angular_get_cur_angle	16	static
